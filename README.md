@@ -9,7 +9,7 @@ Url: https://villarinho.dev/
 
 ### Mobile Desktop
 
-![alt text](images/desktop.png)
+![alt text](images/blogdesktop.png)
 
 ### Mobile Version
 
