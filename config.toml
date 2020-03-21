@@ -1,0 +1,113 @@
+baseurl = "https://focused-wiles-69584c.netlify.com"
+title = "Lucas Villarinho"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+
+[params]
+    author = "Lucas Villarinho"
+    description = "Lucas Villarinho personal website"
+    keywords = "blog,developer,personal"
+    info = "Full Stack Developer"
+    gravatar = "lucasvillarinho1@gmail.com"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = false
+    hideCopyright = false
+    since = 1995
+
+
+    rtl = false
+
+    colorscheme = "auto"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/lucasvillarinho"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/lucas-villarinho-ab085b91/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 3
+    url = "https://medium.com/@lucasvillarinho1"
+
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+#            [[languages.en.menu.main]]
+#            name = "About"
+#            weight = 1
+#            url = "about/"
+
+
+#            [[languages.en.menu.main]]
+#            name = "Contact me"
+#            weight = 5
+#            url = "contact/"
+
+
+    [languages.pt-br]
+        languagename = "Português"
+        title = "Lucas Villarinho"
+
+        [languages.pt-br.params]
+            author = "Lucas Villarinho"
+            info = "Desenvoldedor Full Stack" 
+            description = "Desenvoldedor Full Stack"
+            keywords = "blog,desenvolvedor,pessoal"
+
+        [languages.pt-br.menu]
+
+#            [[languages.pt-br.menu.main]]
+#            name = "Sobre"
+#            weight = 1
+#            url = "about/"
+
+#            [[languages.pt-br.menu.main]]
+#            name = "Contato"
+#            weight = 5
+#            url = "contact/"
