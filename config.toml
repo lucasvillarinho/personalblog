@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Lucas Villarinho"
-    description = "Lucas Villarinho personal website"
+    description = "Personal blog"
     keywords = "blog,developer,personal"
     info = "Full Stack Developer"
     gravatar = "lucasvillarinho1@gmail.com"
@@ -97,7 +97,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.pt-br.params]
             author = "Lucas Villarinho"
             info = "Desenvoldedor Full Stack" 
-            description = "Desenvoldedor Full Stack"
+            description = "Blog pessoal"
             keywords = "blog,desenvolvedor,pessoal"
 
         [languages.pt-br.menu]
