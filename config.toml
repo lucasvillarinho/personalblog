@@ -1,4 +1,4 @@
-baseurl = "https://villarinho.netlify.com/"
+baseurl = "https://villarinho.dev"
 title = "Lucas Villarinho"
 
 theme = "hugo-coder"
