@@ -8,7 +8,7 @@ Url: https://villarinho.dev/
 ### Stack
   - [Netlify](https://www.netlify.com/)
   - [hugo](https://gohugo.io/)
-  - [Hugo-Coder)(https://github.com/luizdepra/hugo-coder/)
+  - [Hugo-Coder](https://github.com/luizdepra/hugo-coder/)
 
 ### Desktop Version
 
